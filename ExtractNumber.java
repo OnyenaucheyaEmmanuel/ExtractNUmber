@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ExtractNumber {
-// extract and count the number from a list of alpahnumeric digits 
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         list.add("7123abc");
